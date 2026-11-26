@@ -1,0 +1,10 @@
+# Data pribadi dan laporan tugas
+tugas_personal/data_saya.py
+tugas_personal_2/data_saya.py
+tugas_personal/laporan_tugas_personal_2026.md
+tugas_personal_2/laporan_tugas_personal_2_2026.md
+
+# Cache Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
